@@ -1,26 +1,5 @@
-@import url("./_content/footer__column_content_copyright.css");
-@import url("./_content/footer__column_content_info.css");
-@import url("./_content/footer__column_content_social.css");
-
-
 .footer__column {
   position: relative;
   color: #f2f2f2;
   font-size: 18px;
-}
-
-.footer__column-heading {
-  font-weight: bold;
-  font-size: 18px;
-}
-
-.footer__column-links {
-  list-style: none;
-  padding: 0px;
-  margin: 20px 0 16px;
-}
-
-.footer__column-link {
-  text-decoration: none;
-  color: #f2f2f2;
 }

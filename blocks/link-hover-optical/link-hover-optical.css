@@ -1,0 +1,4 @@
+.link-hover-optical:hover{
+  opacity: 70%;
+  transition: ease 0.8s;
+}
